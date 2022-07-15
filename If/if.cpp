@@ -4,6 +4,8 @@
  *  == ist eine relationaler Operator ( <, > ,= ,! ,  <= , >=)
  *  a++; a--;
  * logische Operatoren   ( || , &&, ) und und oder
+ * 
+ * 
  * */
 
 
