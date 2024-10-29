@@ -9,8 +9,7 @@
   copies or substantial portions of the Software.
 */
 #include<stdio.h>
-#include <WiFiUdp.h>
-#include <WiFi.h>
+
 #include "time.h"
 
 const char* ssid     = "5GH";
