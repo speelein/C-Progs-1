@@ -3,5 +3,5 @@
 .vscode/launch.json
 .vscode/ipch
 /test/*.pdf
-/Libs/*
-Libs
+/.Libs/*
+.Libs
